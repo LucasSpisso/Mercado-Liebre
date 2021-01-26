@@ -1,0 +1,24 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.nombre{
+    background-color: #EAC926;
+}
+.titulares{
+    font-size: 24px;
+}
+.cuerpoDeTexto {
+    font-size: 12px;
+}
+.precios{
+    font-size: 18px;
+}
+.descuentos {
+    font-size: 16px;
+}
+.center{
+    text-align: center;
+}
+.nav-link-list{
+    list-style-type: none;
+}
